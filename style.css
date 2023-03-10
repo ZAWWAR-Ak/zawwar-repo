@@ -57,19 +57,19 @@ border-style: groove;
   background-color: aqua;
 }  */ 
 body{
-background: linear-gradient(#323241 630px, 300px,   rgb(35, 34, 51)430px);
-background-size:300px;
+background: linear-gradient(#323241 610px 30px,   rgb(35, 34, 51)410px);
+background-size:29px;
 background-origin: border-box;
 }
 .a:hover{
-color: rgb(240, 250, 61);
+color: rgb(234, 244, 49);
 }
 .tr{
   background-color: aliceblue;
 }
 .g{
   margin-top: -296px;
-margin-left: 850px;
+margin-left: 760px;
 }
 nav{
  
@@ -84,13 +84,17 @@ margin-top: 5px;
 padding-bottom: -55px;
 justify-content: flex-start;
 } */
-.fa{
+.fab{
   float: right;
 
-padding-right: 345px;
+padding-right: 440px;
 margin-top: -68px;
 color: orange;
-font-size: 25px;
+font-size: 27px;
+}
+.fab:hover{
+color: rgb(89, 225, 249);
+
 }
 .j{
   transition: all 0.4s ease;
@@ -101,18 +105,24 @@ font-size: 25px;
 .fad{
   float: right;
 
-  padding-right: 270px;
+  padding-right: 378px;
   margin-top: -68px;
   color: orange;
-  font-size: 25px;
+  font-size: 27px;
+}
+.fad:hover{
+  color: rgb(108, 231, 252);
 }
 .fax{
   float: right;
 
-padding-right: 310px;
+padding-right: 411px;
 margin-top: -68px;
 color: orange;
-font-size: 25px; 
+font-size: 27px; 
+}
+.fax:hover{
+  color: rgb(98, 231, 254);
 }
 .m{
   color: orange;
@@ -128,27 +138,27 @@ color: rgb(110, 202, 225);
   
 }
 .hh{
-  color: rgb(116, 116, 116);
-  margin-left: 942px;
-  margin-top: -29px;
-  font-size: 24px;
+  color: rgb(168, 165, 165);
+  margin-left: 926px;
+  margin-top: -31px;
+  font-size: 27px;
   font-weight: bold;
   display: block;
 }
 .hhz{
-  color: rgb(109, 107, 107);
-  margin-left: 859px;
+  color: rgb(169, 168, 168);
+  margin-left: 846px;
   margin-top: -30px;
-  font-size: 25px;
+  font-size: 27px;
   font-weight: bold;
   display: block;  
   
 }
 .hhx{
-  color: rgb(126, 126, 126);
-  margin-left: 905px;
-  margin-top: -30px;
-  font-size: 24px;
+  color: rgb(163, 162, 162);
+  margin-left: 892px;
+  margin-top: -31px;
+  font-size: 26px;
   font-weight: bold;
   display: block;
 }
@@ -179,8 +189,11 @@ color: rgb(110, 202, 225);
 
 }
 .gb:hover{
-color: blue;
+color: rgb(22, 179, 247);
 }
+.ab:hover{
+  color: rgb(38, 220, 248);
+  }
 .ga:hover{
   transform: rotate(360deg);
 }
@@ -190,22 +203,25 @@ color: blue;
 
 .ku{
   float: right;
-  margin-top: -270px;
-  margin-right: 272px;
+  margin-top: -250px;
+  margin-right: 368px;
   font-weight: 70px;
   color: rgb(245, 244, 244);
   font-size: 35px;
 }
+.a:hover{
+  color: rgb(228, 251, 52);
+}
 
 .l{
-  margin-top: -170px;
-  margin-left: 420px;
+  margin-top: -80px;
+  margin-left: -47px;
   margin-right: 70px;
   margin-bottom: 40px;
-background-color: rgb(31, 31, 31);
-border-radius: 235px;
-height: 440px;
-width: 440px;
+/* background-color: rgb(31, 31, 31); */
+/* border-radius: 235px; */
+height: 460px;
+width: 490px;
 background-size: 30px;
 }
 .l:hover{
@@ -216,8 +232,8 @@ h2{
 }
 .k{
   float: right;
-  margin-top: -210px;
-  margin-right: 70px;
+  margin-top: -199px;
+  margin-right: 164px;
 }
 .r{
   margin-top: -330px;
@@ -235,11 +251,14 @@ h2{
 }
 .fs{
 font-size: 25px;
-padding-left: 2px;
+padding-left: 13px;
 font-weight: bold;
 color: orange;
 text-transform: uppercase
 ;
+}
+.fs:hover{
+  color: rgb(98, 231, 254);
 }
 .as{
   justify-content: center;
@@ -258,7 +277,7 @@ text-transform: uppercase
 margin-top: 50px;
 }
 .kk{
-  border: 5px solid rgb(11, 11, 11);
+  border: 4px solid rgb(11, 11, 11);
   margin: 3px;
   padding: 12px;
   border-radius: 9px;
@@ -271,13 +290,13 @@ background-color: linear-gradiant(black);
 .x{
   background-color: rgb(51, 51, 66);
   padding: 22px;
-  padding-left: 75px;
+  padding-left: 72px;
 align-items: center;
-  width: 899px;
+  width: 895px;
   margin-left: 140px;
   height: 38px;
   border: #212124 6px solid;
-  box-shadow: #4a4a4c 1px 1px 1px;
+  box-shadow: #4a4a4c 1px 1px 1px 1px;
   
 
 }
